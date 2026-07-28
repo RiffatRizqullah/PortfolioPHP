@@ -48,7 +48,7 @@ $projects = [
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Portfolio — Riffat</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="api/assets/css/style.css">
 </head>
 <body>
     <header class="site-header">
@@ -123,7 +123,7 @@ $projects = [
         </div>
     </footer>
 
-    <script src="assets/js/main.js"></script>
+    <script src="api/assets/js/main.js"></script>
 </body>
 </html>
 <?php
