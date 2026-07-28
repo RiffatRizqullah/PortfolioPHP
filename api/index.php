@@ -25,19 +25,19 @@ $projects = [
     [
         'title' => 'Rotten Night',
         'desc' => 'Pyschological horror game, You play as Simon, Try to survive the night from Mysterious Spirits.',
-        'img'  => 'assets/images/Rotten.png',
+        'img'  => '/assets/images/Rotten.png',
         'link' => 'https://rigy-game-studio.itch.io/rotten-night'
     ],
     [
         'title' => 'Aplikasi Jadwal',
         'desc' => 'My first Mobile Apps created in Android Studio, used for viewing current school schedules, subjects, rooms efficiently. This application is currently on work in progress, and the schedule data can be synced from the supabase server, in case of changed school schedules, instead of making a local schedule data that requires a lot of hard work just to updating it.',
-        'img'  => 'assets/images/Jadwal.png',
+        'img'  => '/assets/images/Jadwal.png',
         'link' => 'https://fsrquezmqqopbmpjymbn.supabase.co/storage/v1/object/public/App/Jadwal_Prototype_0.1.apk'
     ],
     [
         'title' => 'Digital Soundboard',
         'desc' => 'A simple soundboard desktop application contains 4 channel for playing Music,SFX,Voicelines,Ambience simultaneously. Used for arrange an adaptive musical drama sound in schools, instead of using pre-rendered audio',
-        'img'  => 'assets/images/Soundboard.png',
+        'img'  => '/assets/images/Soundboard.png',
         'link' => 'https://drive.google.com/uc?export=download&id=1UULK24ec7vusfzdgQ8Cy9N-WYJQ9zRW3'
     ],
 ];
