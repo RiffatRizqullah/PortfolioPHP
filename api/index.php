@@ -151,6 +151,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>Portfolio - Riffat</title>
 	<style>
+
+html {
+    scroll-behavior: smooth;
+}
 		:root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#94a3b8;color-scheme:dark}
 		*{box-sizing:border-box}
 		body{margin:0;font-family:Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;background:linear-gradient(180deg,#071023 0%,#07121a 100%);color:#e6eef6}
