@@ -72,7 +72,7 @@ $projects = [
                     <p><a class="btn" href="#projects">See my work</a></p>
                 </div>
                 <div class="hero-photo">
-                    <img src="assets/images/profile.png" alt="Profile">
+                    <img src="assets/images/profile.jpeg" alt="Profile">
                 </div>
             </div>
         </section>
